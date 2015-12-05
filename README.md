@@ -1,1 +1,0 @@
-Fairlance frontend in aurelia
